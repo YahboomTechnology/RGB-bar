@@ -1,0 +1,4 @@
+! Note: 
+When performing this experiment, the current consumed is large.
+We recommend plugging the USB data cable into the micro:bit expansion board to power supply the light bar and the micro:bit board. As shown below:
+If the USB data is directly plugged into the micro:bit board for power supply, it will affect the effect,such as color saturation of RGB lamp is reduced. 
