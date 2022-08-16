@@ -1,0 +1,1 @@
+! Note: During this experiment, the current consumed is more, we recommend using batteries to power the expansion board and Microbit board.
