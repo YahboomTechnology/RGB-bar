@@ -1,0 +1,6 @@
+Microbit development board：This is the core equipment required for making light paintings.
+USB data cable：It is used to connect Micro:bit with computer to download codes to Micro:bit.
+RGB light bar：We need some RGB light strips as the light source for the light painting
+dupont line：Used to connect the RGB light strip with the pins on the Micro:bit.
+Expansion board and battery：Use the battery to power the expansion board.
+Hollow picture frame and picture: choose a detachable inner frame, the depth is about 3cm is more appropriate, prepare a line draft and a background picture printed on film paper for the picture.
