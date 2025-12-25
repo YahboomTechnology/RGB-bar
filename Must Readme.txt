@@ -1,0 +1,1 @@
+The pin marked with an arrow is GND.
